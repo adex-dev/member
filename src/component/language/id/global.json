@@ -1,0 +1,545 @@
+{
+  "body": {
+    "overview": "Keanggotaan",
+    "overviewbtn": "lihat keuntungan",
+    "term": "SYARAT & KETENTUAN",
+    "benefit": "KEUNTUNGAN",
+    "police": "Kebijakan Privasi & Penggunaan Data"
+  },
+  "navbar": {
+    "home": "Halaman Depan",
+    "login": "Masuk"
+  },
+  "home": {
+    "body": "Selamat Datang"
+  },
+  "faq": [
+    {
+      "title": "Cara Mendaftar Menjadi Anggota JG Group?",
+      "answer": "Untuk mendapatkan Keanggotaan JG Group, kunjungi website kami: www.member.jaygeegroup.com Atau kunjungi outlet JG Group dan pindai QR di toko kami."
+    },
+    {
+      "title": "Berapa biaya untuk menjadi Keanggotaan JG Group?",
+      "answer": "0,Biaya Keanggotaan untuk menjadi Keanggotaan JG Group Gratis 🙂"
+    },
+    {
+      "title": "Bagaimana cara mendapatkan Poin Keanggotaan JG Group?",
+      "answer": "Untuk mendapatkan Poin, kunjungi toko JG Group. Sebelum melakukan transaksi, informasikan kepada pelayan bahwa Anda adalah anggota JG Group dengan memberikan nomor ponsel dan nama Anda, atau lihat Kode QR Keanggotaan JG Group untuk toko tersebut."
+    },
+    {
+      "title": "Berapa Poin Anggota JG Group yang akan Anda dapatkan?",
+      "answer": "Anda akan mendapatkan 25 poin untuk setiap transaksi dengan kelipatan Rp 50.000 (belum termasuk pajak) di seluruh outlet Restoran JG Group."
+    },
+    {
+      "title": "Apakah Keanggotaan JG Group Points akan hangus jika tidak digunakan?",
+      "answer": "Masa berlaku Poin adalah 1 tahun sejak Poin diperoleh dari transaksi.\nContoh: Poin yang diperoleh dari transaksi bulan Juni 2020 akan habis masa berlakunya pada bulan Juni 202."
+    },
+    {
+      "title": "Bagaimana cara menukarkan Poin Anggota JG Group yang sudah Anda peroleh?",
+      "answer": "Penukaran poin hanya dapat dilakukan melalui website: www.nahmthaisukibbq.com/member dan Anda akan mendapatkan notifikasi jawaban hadiah dari penukaran poin. Poin dapat berupa produk gratis yang telah ditentukan atau berupa voucher diskon untuk digunakan bertransaksi di Restoran JG Group."
+    },
+    {
+      "title": "Apakah transaksi menggunakan Voucher bisa mendapatkan Poin?",
+      "answer": "Transaksi menggunakan Voucher tidak mendapatkan Poin."
+    },
+    {
+      "title": "Bisakah Poin diuangkan?",
+      "answer": "Transaksi tidak dapat diuangkan."
+    },
+    {
+      "title": "Poin dapat digunakan dimana saja?",
+      "answer": "Penukaran poin dapat dilakukan di seluruh outlet JG Group Restaurant."
+    }
+  ],
+  "overview": {
+    "text": "Keanggotaan kami merupakan salah satu bentuk layanan yang memberikan keuntungan kepada pelanggan, dimana setiap anggota akan mendapatkan keistimewaan berupa Diskon, Gift Point dan Gift Voucher untuk ulang tahun. Dengan menjadi Keanggotaan JG Group, Anda akan memiliki akses ke layanan lebih dari sebelumnya."
+  },
+  "Term": [
+    {
+      "answer": "Keanggotaan JG Group adalah program keanggotaan gratis dan ditujukan untuk penggunaan pribadi saja."
+    },
+    {
+      "answer": "Anggota keanggotaan JG Group harus memberikan informasi yang sah dan akurat."
+    },
+    {
+      "answer": "Keistimewaan dan keuntungan akan diperpanjang setelah aktivasi akun yang valid."
+    },
+    {
+      "answer": "Manfaat dan poin yang dikumpulkan dalam keanggotaan adalah promosi dan tidak memiliki nilai tunai."
+    },
+    {
+      "answer": "JG Group berhak mengubah atau memodifikasi manfaat keanggotaan kapan saja."
+    },
+    {
+      "answer": "Keanggotaan dan keuntungan JG Group tidak dapat dipindahtangankan & tidak berlaku untuk promosi lainnya."
+    },
+    {
+      "answer": "Untuk menggunakan keanggotaan di gerai JG Group, anggota harus mengikuti kebijakan masing-masing gerai."
+    },
+    {
+      "answer": "JG Group berhak mengubah atau membatalkan syarat & ketentuan dari waktu ke waktu tanpa pemberitahuan sebelumnya."
+    },
+    {
+      "answer": "JG Group berhak mengakhiri, memberhentikan atau membatalkan Keanggotaan JG Group kapan saja dan atas kebijakannya sendiri tanpa pemberitahuan."
+    },
+    {
+      "answer": "Poin Reward adalah poin yang diperoleh dari aktivitas berbelanja di Outlet JG group."
+    },
+    {
+      "answer": "Poin belanja tidak berlaku untuk pembelian melalui Gojek/Grab."
+    },
+    {
+      "answer": "Dengan mendaftar program ini, Anda dianggap telah membaca, memahami, menerima dan terikat pada Syarat & Ketentuan keanggotaan."
+    },
+    {
+      "answer": "Dalam hal apa pun, JG Group tidak bertanggung jawab atas segala kerugian langsung, tidak langsung, insidental, khusus, atau konsekuensial yang timbul dari keanggotaan JG Group."
+    },
+    {
+      "answer": "Poin tidak akan kedaluwarsa dan akan diatur ulang pada peningkatan dan ditinjau setiap tahun."
+    },
+    {
+      "answer": "Periode penukaran poin terhitung 1 (satu) tahun terhitung sejak akhir bulan transaksi terakhir."
+    }
+  ],
+  "footer": {
+    "bantuan": "Bantuan",
+    "perusahaan": "Perusahaan",
+    "payment": "Metode Pembayaran",
+    "contact": "Hubungi Kami",
+    "ask": "Tanya Jawab",
+    "tautan": "Tautan Langsung",
+    "company": {
+      "about": "Tentang Pt.Jaygee",
+      "kebijakan": "Kebijakan Privasi",
+      "syarat": "Syarat dan Ketentuan"
+    }
+  },
+  "join": {
+    "header": "Sangat Mudah",
+    "line1": "Daftarkan data kamu di",
+    "line2": "atau kunjungi salah satu",
+    "line3": "dimana staff Jaygee akan membantu mendaftarkan anda sebagai member",
+    "line1_link": "Halaman ini",
+    "line2_link": "Restoran terdekat",
+    "line4": "Dapatkan benefit lebih dengan melakukan pembelanjaan langsung di Restoran Jaygee."
+  },
+  "register": {
+    "header": "SELAMAT DATANG DI JAYGEE GROUP",
+    "nama": "Nama",
+    "email": "Alamat Email",
+    "phone": "Nomer Telepone",
+    "tgl": "Tanggal Lahir",
+    "laki": "Laki - Laki",
+    "perempuan": "Perempuan",
+    "benefit": "Dapatkan Harga Menarik dengan berbagai Keuntungan lebih !",
+    "benefit2": "Daftar sekarang juga untuk dapatkan info terbaru dari restoran Jaygee Group, dari panduan makanan lezat sampai ke promo menarik lainnya !",
+    "button": "Daftar",
+    "line1": "Dengan mengklik tanda diatas maka Anda bersedia menjadi member Jaygee Group, dan sudah setuju dengan",
+    "line2": "juga",
+    "line3": "Kami",
+    "link1": "Kebijakan Data",
+    "link2": "Syarat & ketentuan"
+  },
+  "police": {
+    "line1": "Kebijakan Privasi ini menjelaskan informasi yang kami kumpulkan tentang Anda ketika Anda berinteraksi dengan Kami di restoran kami, melalui layanan pelanggan, program anggota/loyalitas kami, pada situs web ritel Jaygee Group, aplikasi seluler kami (Jika tersedia), atau pada situs web perusahaan kami (<a href='https://www.jaygeegroup.com'>www.jaygeegroup.com</a>) (Secara bersama-sama disebut 'Platform' kami.",
+    "line2": "Dengan mengirimkan informasi melalui atau menggunakan Platform kami, Anda mengakui bahwa kami dapat mengumpulkan,menggunakan,dan mengungkapkan informasi sesuai dengan kebijakan Privasi ini, pilihan privasi yang telah anda sampaikan kepada kami, dan sebagaimana diizinkan atau diwajibkan oleh hukum. Sebagaimana digunakan Kebijakan Privasi ini,'Isoide & Nahm','milik kami',dan 'kami' berarti Isoide dan Nahm, perusahaan yang berkantor di Jakarta, Indonesia,(kecuali entitas hukum yang berbeda berlaku untuk lokasi Anda seperti dijelaskan dalam bagian '<b>PEMBERITAHUAN TAMBAHAN</b>' di bawah).",
+    "line3": "Isoide dan Nahm mencadangkan hak untuk mengubah Kebijakan Privasi ini setiap saat untuk tetap memperbaharui dengan persyaratan hukum dan peraturan dan cara kami menjalankan bisnis kami dan akan menempatkan setiap pembaharuan pada situs web kami. Mohon perikasa situs web kami secara berkala untuk versi terakhir dari Kebijakan Privasi ini. Dimana diizinkan oleh hukum, akses Anda ke dan/atau penggunaan Platform kami yang berkelanjutan setelah perubahan tersebut menyatakan penerimaan Anda dan persetujuan terhadap praktik kami. Mohon tinjau Kebijakan Privasi ini secara berkala sehingga Anda mengetahui informasi pribadi yang kami kumpulkan, cara kami menggunakannya kepada siapa kami dapat membagikannya.",
+    "line4": "Kami sangat berkomitmen terhadap hubungan kepercayaan yang kami miliki dengan Anda, dan kami menganggap dengan serius tanggung jawab perlindungan data kami. Selama lebih dari 160 tahun, kami telah menciptakan produk asli dengan memimpin melalui nilai kami. Ketika kami terus berinovasi dalam cara menyajikan produk dan layanan secara nyata, kami akan memadukan teknologi serta praktik mutakhir dengan kepentingan privasi Anda.",
+    "line5": "<b>INFORMASI PRIBADI ANDA</b>",
+    "line6": "Cara kami mengumpulkan, menggunakan,dan membagikan informasi pribadi anda",
+    "line7": "Kami mengumpulkan data ketika Anda berinteraksi dengan kami di berbagai titik kontak, mencakup informasi yang dapat secara langsung atau tidak langsung mengidentifikasi Anda ('Informasi Pribadi'). Sebagai perusahaan ritail, kami menggunakan Informasi Pribadi untuk berbagai tujuan bisnis termasuk membagikan dan menggabungkannya dengan informasi lain yang dapat kami terima dari ritel, dan restoran kami, teknologi, dan pihak ketiga lainnya. Bagian ini merinci jenis Informasi Pribadi yang kami kumpulkan, cara kami menggunakannya, dan menjelaskannya pihak ketika yang kami bagikan Informasi Pribadi. Lihat '<b>PEMBERITAHUAN TAMBAHAN</b>' di bawah untuk mendapatkan informasi tambahan yang dapat berlaku bgai Anda didasarkan pada lokasi Anda.",
+    "line8": [
+      {
+        "judul": "INFORMASI KONTAK",
+        "deskription": "Mencakup mengidentifikasi informasi seperti nama, alamat email, nomor Telepone, alamat pengiriman/penagihan/fisik, pengenal online yang Anda bagikan di forum publik (seperti nama media sosial Anda), atau nama panggilan.",
+        "poin": [
+          {
+            "judul": "<b>Cara kami mengumpulkan informasi ini</b>",
+            "alenia": [
+              {
+                "line1": "Secara langsung dari Anda ketika Anda mendaftarkan akun, bergabung dengan program anggota (<i>loyalitas</i>) (jika tersedia), mendaftarkan email, mendaftar untuk atau menghadiri suatu acara, memesan produk dari kami secara daring (<i>online</i>) atau membeli produk di dalam."
+              },
+              {
+                "line1": "Dari pihak ketiga termasuk pemegang waralaba kami atau pihak lain yang mengelola lokai atau pemenuhan produk atau penyedia daftar pemasara (jika diizinkan berdasarkan undang - undang yang berlaku)"
+              },
+              {
+                "line1": "Dari teknologi (Seperti ketika Anda berinteraksi dengan kecerdasan buatan ('AI') yang menggerakkan chatbot kami"
+              }
+            ]
+          },
+          {
+            "judul": "<b>Alasan kami mengumpulkannya</b>",
+            "alenia": [
+              {
+                "line1": "Untuk menghubungi Anda, contoh untuk mengirimkan komunikasi relasional, transaksional, dan komersial, serta materi pemasaran dan periklanan lain (bergantung pada pilihan yang dapat Anda buat untuk ikut serta atau tidak )"
+              },
+              {
+                "line1": "Untuk mengelola undian, survei, atau kontes"
+              },
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          },
+          {
+            "judul": "<b>Kami membagikannya dengan:</b>",
+            "alenia": [
+              {
+                "line1": "Platform media sosial pihak ketiga (termasuk untuk periklanan melalui platform seperti Meta,Tiktok,Instagram atau Amazon menggunakan piksel atau audien khusus ) (begantung pada pilihan yang dapat Anda buat untuk iktu serta atau tidak )"
+              },
+              {
+                "line1": "Penyedia pemasaran dan periklanan"
+              },
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "INFORMASI KEUANGAN",
+        "deskription": "Mencakup informasi seperti empat digit terakhir nomor kartu / debit Anda, data yang digunakan untuk mengotentikasi transaksi Anda dan informasi yang berkaitan dengan penggunaan metode pembayaran alternatif atau platform pemeriksaan pihak ketiga untuk menyelesaikan transaksi Anda.",
+        "poin": [
+          {
+            "judul": "<b>Cara kami mengumpulkan informasi ini</b>",
+            "alenia": [
+              {
+                "line1": "secara langsung dari Anda ketika melakukan pembelian"
+              },
+              {
+                "line1": "Dari pihak ketiga sesuai kebutuhan untuk membantu proses transaksi yang Anda minta dengan aman."
+              }
+            ]
+          },
+          {
+            "judul": "<b>Alasan kami mengumpulkannya</b>",
+            "alenia": [
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          },
+          {
+            "judul": "<b>Kami membagikannya Kepada:</b>",
+            "alenia": [
+              {
+                "line1": "Pemrosesan pembayaran"
+              },
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "INDENTIFIKASI INFORMASI LAINNYA",
+        "deskription": "Mencakup informasi yang mungkin dapat digunakan secara wajar untuk mengidentifikan Anda, baik dengan sendirinya atau jika digabungkan dengan data lain seperti data demografis umum atau khusus, penjelasan fisik pilihan makanan, menu, informasi yang Anda bagikan di forum terbuka publik termasuk media sosial, atau informasi lain yang kami kumpulkan dari Anda setelah mendapatkan persetujuan Anda sebelumnya.",
+        "poin": [
+          {
+            "judul": "<b>Cara kami mengumpulkan informasi ini</b>",
+            "alenia": [
+              {
+                "line1": "Secara langsung dari Anda ketika Anda membuat akun online atau bergabung dengan program anggota (loyalitas) kami (jika tersedia). menggunakan aplikasi seluler yang ditawarkan, atau melalui pengalaman/pembelian di dalam restoran kami."
+              },
+              {
+                "line1": "Ketika Anda mengirimkan lamaran kerja serta dari referensi Anda dan sumber lain ( lihat Pemberitahuan Privasi Calon kami untuk informasi selengkapnya )"
+              },
+              {
+                "line1": "Sebagaimana dijelaskan dalam pemberitahuan atau persetujuan terpisah, seperti pemberitahuan yang muncul untuk fitur khusus di aplikasi seluler kami atau ketentuan pendaftaran untuk secara khusus."
+              },
+              {"line1": "Dari pihak ketiga termasuk platform media sosial, mitra bisnis, dan penyedia layanan periklanan."}
+            ]
+          },
+          {
+            "judul": "<b>Alasan kami mengumpulkannya</b>",
+            "alenia": [
+              {
+               "line1": "Untuk menawarkan dan mengelola penawaran khusu, kontes, survei, dan undian."
+              },
+              {
+                "line1": "Untuk mengirimkan komunikasi relasional, transaksional, dan komersial, serta materi pemasaran dan periklanan lain (bergantung pada pilihan yang dapat Anda buat untuk ikut serta atau tidak."
+              },
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          },
+          {
+            "judul": "<b>Kami membagikannya Kepada:</b>",
+            "alenia": [
+              {
+                "line1": "Penyedia Pemasaran dan Periklanan"
+              },
+              {
+                "line1": "Penyedia Layaran Pelanggan."
+              },
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "INFORMASI DARI HUBUNGAN BISNIS KAMI",
+        "deskription": "Mencakup informasi yang Anda bagikan pada situs web kami, dalam aplikasi kami, kepada Layanan Pelanggan, Staff di dalam toko kami, atau perwakilan lainnya, termasuk pembelian dan pengembalian adata, tanggapan survei, layanan kustomasi, umpan balik, komunikasi atau informasi yang Anda bagikan di forum publik seperti media sosial, pilihan yang Anda buat sehubungan dengan komunikasi yang kami kirimkan kepada Anda atau cara kami menggunakan data Anda (misalnya : untuk opsi masuk atau opsi keluar ), informasi akun atau program anggota (loyalitas) termasuk kredensial atau informasi yang Anda isi di akun Anda, ukuran, kecocokan, dan pilihan produk, pertukaran dengan chatbot yang didukung kecerdasan buatan atau AI kami, toko yang Anda kunjungi dan data terkait yang disimpulkan seperti tren dan pilihan pembelian.",
+        "poin": [
+          {
+            "judul": "<b>Cara kami mengumpulkan informasi ini</b>",
+            "alenia": [
+              {
+                "line1": "Secara langsung dari Anda."
+              },
+              {
+                "line1": "Dari pihak ketiga termasuk platform media sosial, mitra bisnis, dan penyedia layanan periklanan"
+              },
+              {
+                "line1": "Dari teknologi (seperti AI yang menggerakan chatbot kami)"
+              }
+            ]
+          },
+          {
+            "judul": "<b>Alasan kami mengumpulkannya</b>",
+            "alenia": [
+              {
+                "line1": "Untuk mengelola, mendukung, serta meningkatkan kehadiran dan pengalaman online dan di dalam toko kami."
+              },
+              {
+                "line1": "Untuk membantu kami memahami minat Anda, mempersonalisasi interaksi kami dengan Anda, dan mengembangkan hubungan bisnis kami."
+              },
+              {
+                "line1": "Untuk menawarkan serta mengelola penawaran khusus, kontes, survei, dan undian."
+              },
+              {
+                "line1": "Untuk mengirimkan komunikasi relasional, transaksional, dan komersial, serta materi pemasaran dan periklanan lain (bergantung pada pilihan yang dapat Anda buat untuk ikut serta atau tidak)"
+              },
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          },
+          {
+            "judul": "<b>Kami membagikannya Kepada:</b>",
+            "alenia": [
+              {
+                "line1": "Penyedia Pemasaran dan Periklanan"
+              },
+              {
+                "line1": "Penyedia Layanan Pelanggan."
+              },
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "INFORMASI AUDIO, VISUAL, SENSOR, DAN BIOMETRIK",
+        "deskription": "Mencakup data seperti rekaman audio, film visual atau gambar diam, karakteristik atau pola fisik dan perilaku. Di beberapa lokasi, informasi biometrik dianggap Informasi Pribadi yang sensitif dan tunduk pada pelindungan tambahan.",
+        "poin": [
+          {
+            "judul": "<b>Cara kami mengumpulkan informasi ini</b>",
+            "alenia": [
+              {
+                "line1": "Secara langsung dari Anda, Jika Anda melakukan panggilan telepon ke nomor layanan pelanggan kami yang direkam, jika Anda mengunggah gambar atau audio/video secara publik tempat Anda memposting dan menandai kami atau merek kami, Jika Anda memilih untuk berinteraksi dengan fitur opsional di platform kami seperti mengambil dan mengirimkan selfie atau pemindaian tubuh untuk penilaian kebugran digital atau uji coba virtual, atau jika Anda menggunakan fitur perintah suara."
+              },
+              {
+                "line1": "Dengan kamera CCTV di lokasi kami."
+              },
+              {
+                "line1": "Sebagaimana dijelaskan dalam pemberitahuan atau persetujuan terpisah, seperti pemberitahuan yang muncul untuk fitur khusus di aplikasi seluler kami, atau ketentuan pendaftaran untuk secara khusus."
+              }
+            ]
+          },
+          {
+            "judul": "<b>Alasan kami mengumpulkannya</b>",
+            "alenia": [
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          },
+          {
+            "judul": "<b>Kami membagikannya Kepada:</b>",
+            "alenia": [
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "INFORMASI DARING (ONLINE) DAN TEKNIS",
+        "deskription": "Mencakup data penjelajahan, data tentang cara Anda berinteraksi dengan platform dan alat kami (termasuk iklan online, pesan teks dane email) dan aktivitas jaringan serupa, alamat IP anda, dan pengenal perangkat (contohnya, ID iklan, model perangkat , sistem operasi, lokal perangkat, platform seluler, waktu sesi, ID pengembang, dan sejenisnya), serta reproduksi dan rekaman interaksi dengan situs web yang direkam selama sesi penjelajahan.",
+        "poin": [
+          {
+            "judul": "<b>Cara kami mengumpulkan informasi ini</b>",
+            "alenia": [
+              {
+                "line1": "Dari komputer atau perangkat Anda ketika Anda berinteraksi dengan platform kami, contohnya, ketika Anda mengunjungi situs web Restoran kami atau perusahaan kami, log server kami mencatat alamat IP Anda dan kami mengumpulkan informasi tentang cara Anda menavigasi melalui sistus web kami.."
+              },
+              {
+                "line1": "Melalui cookie, suar web (web beacon), piksel, clear gifs, dan teknologi penelusuran serupa (dimana Anda telah memilih, jika diwajibkan oleh hukum yang berlaku, kecuali pengumpulannya secara tegas diperlukan melalui cookies)."
+              },
+              {
+                "line1": "Dari tindakan - tindakan yang Anda lakukan untuk menanggapi email pemasaran, termasuk apakah ANda membuka email, berhenti berlangganan, atau membeli produk yang dipromosikan di email tersebut.."
+              },
+              {
+                "line1": "Dari pihak ketiga termasuk mitra kolaborasi yang membantu mengembangkan solusi baru seperti percobaan virtual."
+              }
+            ]
+          },
+          {
+            "judul": "<b>Alasan kami mengumpulkannya</b>",
+            "alenia": [
+              {
+                "line1": "untuk membuat interkasi Anda dengan kami lebih nyaman, contohnya, mengenali Anda dan  perangkat Anda, atau mengizinkan kami menahan pilihan keranjang Anda ketika Anda keluar lalu kembali ke halaman pesanaan."
+              },
+              {
+                "line1": "Untuk mengirimkan komunikasi relasional, transaksional, dan komersial, serta materi pemasaran dan periklanan lainnya termasuk melalui periklanan perilaku dan penelusuran lintas perangkat. Penelusuran lintas perangkat mengacu pada ketika data digunakan untuk membuat kesimpulan bahwa pengguna satu perangkat, seperti komputer, adalah orang yang sama yang menggunakan perangkat lain, seperti telepon seluler. Kemudian, kami dapat menayangkan iklan di peramban kedua perangkat. Penggunaaan ini mengacu pada pilihan yang Anda buat untuk ikut serta atau tidak."
+              },
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          },
+          {
+            "judul": "<b>Kami membagikannya Kepada:</b>",
+            "alenia": [
+              {
+                "line1": "Penyedia Pemasaran dan Periklanan."
+              },
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "INFORMASI YANG DIKUMPULKAN DAN DITURUNKAN ",
+        "deskription": "Mencakup profil berdasarkan pada tren pembelian, pola, dan pilihan interaksi, karakteristik, kecenderungan, perilaku, atau sikap.",
+        "poin": [
+          {
+            "judul": "<b>Cara kami mengumpulkan informasi ini</b>",
+            "alenia": [
+              {
+                "line1": "Secara langsung dari Anda."
+              },
+              {
+                "line1": "Melalui teknologi seperti alamat IP"
+              },
+              {
+                "line1": "Dari pihak ketiga termasuk mitra bisnis dan penyedia layanan periklanan."
+              }
+            ]
+          },
+          {
+            "judul": "<b>Alasan kami mengumpulkannya</b>",
+            "alenia": [
+              {
+                "line1": "Untuk mengirimkan komunikasi relasional, transaksional, dan komersial, untuk penawaran khusus serta materi pemasaran dan periklanan lainnya (bergantung pada pilihan yang dapat Anda buat untuk ikut serta atau tidak) termasuk melalui periklanan berdasarkan minat dan menggunakan lintas perangkat."
+              },
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          },
+          {
+            "judul": "<b>Kami membagikannya Kepada:</b>",
+            "alenia": [
+              {
+                "line1": "Penyedia Pemasaran dan Periklanan."
+              },
+              {
+                "line1": "Platform media sosial"
+              },
+              {
+                "line1": "Lihat <b>`TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA` </b> dibawah"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "INFORMASI ANAK-ANAK DAN ANAK DI BAWAH UMUR",
+        "deskription": "Kami tidak akan dengan sengaja mengumpulkan Informasi Pribadi pengguna yang berusia di bawah 13 tahun di Platform kami. Penawaran tersebut ditujukan bagi pengguna yang berusia 13 tahun ke atas, Jika pengguna atau orang tua atau wali mereka menyakini kami telah mengumpulkan Informasi Pribadi anak di bawah ummur ( di bawah usia 18 tahun), mohon hubungi kami di <a href='mail:customer.service@jaygeegroup.com'>customer.service@jaygeegroup.com</a> untuk menghapus data tersebut.",
+        "poin": [
+          {
+            "judul": "&nbsp;",
+            "alenia": [
+              {
+                "line1": "&nbsp;"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "TUJUAN BISNIS DAN BERBAGI UNTUK SEMUA JENIS DATA",
+        "deskription": "Selain yang disebutkan di atas, kami dapat menggunakan setiap atau semua Informasi Pribadi yang dijelaskan dalam Kebijakan Privasi ini untuk tujuan bisnis berikut. Selain itu, operasi bisnis kami mengharuskan kami berbagi Informasi Pribadi kepada pihak ketiga dengan kategori tertentu sebagaimana diidentifikasi di bawah :",
+        "poin": [
+          {
+            "judul": "<b>Kami dapat menggunakan atau membagikan Informasi Pribadi yang kami kumpulkan untuk :</b>",
+            "alenia": [
+              {
+                "line1": "Menjaga keselamatan, keamanan, fungsionalitas, serta integritas Platform kami dan aset atau bisnis lainnya."
+              },
+              {
+                "line1": "Mencega penyelidikan, atau mengambil tindakan terkait aktivitas yang melanggar hukum termasuk namun tidak terbatas pada melibatkan pihak ketiga untuk menyaring transaksi untuk dugaan penipuan atau pencurian indentitas."
+              },
+              {
+                "line1": "Melakukan pengujian, penelitian, analisis, dan pengembangan produk."
+              },
+              {
+                "line1": "Mengelola, mendukung, dan meningkatkan serta memberikan pengalaman yang di sesuaikan dan disederhanakan dengan Platform (portal) kami, termasuk dengan menawarkan program anggota (loyalitas), rekomendasi yang dipersonalisasi, saran yang sesuai, dan sejenisnya."
+              },
+              {
+                "line1": "Menyediakan layanan didalam toko, di situs web, atau aplikasi seluler , mencakup memproses pembelian yang di minta, pengembalian dan penukaran, pembayaran, pemesanan, pengiriman, produk, dan menyediakan Layanan Pelanggan."
+              },
+              {
+                "line1": "Mengevaluasi atau melakukan penggabungan, divestasi, restrukturasi, reorganisasi, pembubaran, atau penjualan tau pengalihan lain dari beberapa atau semua aset kami, baik sebagai kelangsungan maupun sebagai bagian dari kepailitan, likuidasi, atau proses serupa di mana Informasi Pribadi yang disimpan adalah salah satu aset yang dialihkan."
+              },
+              {
+                "line1": "Melakukan inisiatif bisnis lain seperti dijelaskan kepada Anda ketika mengumpulkan informasi Pribadi Anda, dengan Persetujuan Anda atau sebagaimana diizinkan oleh hukum."
+              },
+              {
+                "line1": "Mematuhi hukum atau proses yang mengikat secara hukum, seperti sesuai dengan paggilan pengadilan, perintah pengadilan, untuk menegakkan hak hukum kami, atau untuk melindungi Anda, kami, atau orang lain dari cedera atau bahaya termasuk untuk keamanan dan pencegahan kerugian."
+              },
+              {
+                "line1": "Untuk mengelola survei dan kuesioner, seperti untuk tujuan kepuasan."
+              }
+            ]
+          },
+          {
+            "judul": "<b>Kami Membagikan Informasi Pribadi Anda Kepada:</b>",
+            "alenia": [
+              {
+                "line1": "Penyedia Layanan, mencakup pengalihdayaan operasi, seperti untuk layanan untuk atau titik kehadiran di negara, penyedia layanan dan teknologi komputasi awan, pemrosesan kartu kredit, pemasaran dan periklanan, pengiriman dan logistik, penyelesaian sengketa, penyedia pendeteksian dan pencegahan penipuan, manajemen data, penyedia analitik, serta pihak ketiga lain yang memiliki hubungan kontrak dengan kami."
+              },
+              {
+                "line1": "Di dalam rumpun merek kami dan dengan bisnis yang mengendalikan, dikendalikan oleh, atau dibawah kendali yang sama dengan Nahm & Isoide ('<b> Afiliasi </b>')"
+              },
+              {
+                "line1": "Auditor, konsultan, advokat, dan entitas lain yang menggunakan data agar memberikan layanan profesional kepada kami,"
+              },
+              {
+                "line1": "Lembaga pemerintah, penegak hukum, regulator, dan pengadilan dimana kami harus mematuhi hukum, peraturan, aturan, permintaan, penegakan hukum, regulator, dan lembaga pemerintah lain atau proses yang mengikat secara hukum, seperti berdasarkan panggilan, pengadilan, perintah pengadilan, untuk menegakkan hak hukum kami, atau untuk melindungi Anda, kami, atau orang lain dari cedera atau kerugian."
+              },
+              {
+                "line1": "Pengalihan Bisnis, jika (i) kami atau Afiliasi kami diakusisi atau mungkin mengakusisi oleh, digabungkan dengan, atau diinvestasikan oleh perusahaan lain, atau (ii) jika salah satu aset kami dialihkan atau mungkin dialihkan ke perusahaan lain, baik sebagai bagian dari proses kepailitan atau insolvensi atau lainnya, kami dapat mengungkapkan atau mengalihkan Informasi Pribadi kepada pembeli pihak ketiga yang potensial atau aktual atau pihak ketiga yang relevan lainnya."
+              },
+              {
+                "line1": "Kami juga dapat menganonimkan, mengumpulkan, atau menghapus,Informasi Pribadi yang dikumpulkan dari semua karakteristik pengenal pribadi dan dapat menggunakan atau membagikan data yang dikumpulkan dan dianonimkan kepada pihak ketiga untuk tujuan yang dianggap sesuai."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

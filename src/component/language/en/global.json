@@ -1,0 +1,542 @@
+{
+  "body": {
+    "overview": "Membership",
+    "overviewbtn": "View Benefit",
+    "term": "TERM & CONDITION",
+    "benefit": "BENEFIT",
+    "police":"Privacy Policy & Data Usage"
+  },
+  "navbar": {
+    "home": "Home",
+    "login": "Login"
+  },
+  "faq": [
+    {
+      "title": "How to Register to Become a Member of JG Group?",
+      "answer": "To obtain a JG Group Membership, go to our website: www.member.jaygeegroup.com Or visit the JG Group outlets and scan the QR in our stores."
+    },
+    {
+      "title": "How much does it cost to become a JG Group Membership?",
+      "answer": "ZERO. Membership Fee for JG Group Membership is Free 🙂"
+    },
+    {
+      "title": "How to get JG Group Membership Points?",
+      "answer": "To get Points, visit the JG Group store. Before making a transaction, inform the waiter that you are a member of JG Group by providing your mobile number and name, or see JG Group's QR Code Membership for the store."
+    },
+    {
+      "title": "How many JG Group Member Points will you get?",
+      "answer": "You will get 25 point for every transaction with a multiple of IDR 50,000 (before tax) in all JG Group Restaurant outlets."
+    },
+    {
+      "title": "Will JG Group Points Membership be forfeited if it is not used?",
+      "answer": "The validity period of the Points is 1 year since the Points were obtained from the transaction.\nExample: Points earned from transactions in June 2020 will expire in June 202."
+    },
+    {
+      "title": "How do you exchange the JG Group Member Points that you have earned?",
+      "answer": "Points redemption can only be done through the website: www.nahmthaisukibbq.com/member and you will get notification of answers to prizes from the point redemption. Points can be in the form of free products that have been determined or in the form of discounted vouchers to be used for transactions at JG Group Restaurant."
+    },
+    {
+      "title": "Can transactions using Vouchers get Points?",
+      "answer": "Transactions using Vouchers do not earn Points."
+    },
+    {
+      "title": "Can Points be cashed?",
+      "answer": "Transactions cannot be cashed out."
+    },
+    {
+      "title": "Points can be used anywhere?",
+      "answer": "Points redemption can be done at all JG Group Restaurant outlets."
+    }
+  ],
+  "overview": {
+    "text": " Our Membership is a form of service that provides benefits to customers, where each member will get the privilege of getting Discounts, Gift Points and Gift Vouchers for birthdays. By becoming a JG Group Membership, you will have access to more services than before."
+  },
+  "Term": [
+    {
+      "answer": "JG Group membership is a free membership program and is intended for personal use only."
+    },
+    {
+      "answer": "JG Group membership members must provide legal and accurate information."
+    },
+    {
+      "answer": " Privileges and benefits will be extended after valid account activation."
+    },
+    {
+      "answer": "Benefits and points accumulated under membership are promotions and have no cash value."
+    },
+    {
+      "answer": "JG Group has the right to change or modify membership benefits at any time."
+    },
+    {
+      "answer": "JG Group membership and benefits are non-transferable & do not apply to other promotions."
+    },
+    {
+      "answer": "To use membership in JG Group outlets, members must follow the policies of each outlet."
+    },
+    {
+      "answer": "JG Group has the right to change or withdraw terms & conditions from time to time without prior notice."
+    },
+    {
+      "answer": "JG Group has the right to terminate, terminate or cancel JG Group Membership at any time and at its sole discretion without notice."
+    },
+    {
+      "answer": "Reward points are points earned from shopping activities at the JG group Outlet."
+    },
+    {
+      "answer": "Shopping points do not apply to purchases through Gojek / Grab."
+    },
+    {
+      "answer": "By registering for this program, you are deemed to have read, understood, accepted and bound by the Terms & conditions of membership."
+    },
+    {
+      "answer": "In any case, JG Group is not responsible for any direct, indirect, incidental, special, or consequential losses arising from JG Group membership."
+    },
+    {
+      "answer": "Points will not expire and will be reset on an upgrade and reviewed every year."
+    },
+    {
+      "answer": "Points exchange period counts 1 (one) year from the end of the last transaction month."
+    }
+  ],
+  "footer": {
+    "bantuan": "Helpdesk",
+    "perusahaan": "Company",
+    "payment": "Metode Payment",
+    "contact": "Contact Us",
+    "ask": "Question & Answer",
+    "tautan": "Direct Link",
+    "company": {
+      "about": "About Pt.Jaygee",
+      "kebijakan": "Privacy Policy",
+      "syarat": "Terms and Conditions"
+    }
+  },
+  "join": {
+    "header": "Very easy",
+    "line1": "Register your data at",
+    "line2": "or visit one",
+    "line3": "where Jaygee staff will help register you as a member",
+    "line1_link": "this page",
+    "line2_link": "Nearest restaurant",
+    "line4": "Get more benefits by shopping directly at Jaygee Restaurant"
+  },
+  "register": {
+    "header": "WELCOME TO JAYGEE GROUP",
+    "nama": "Name",
+    "email": "Email Address",
+    "phone": "Number Phone",
+    "tgl": "Birthday",
+    "laki": "Male",
+    "perempuan": "Female",
+    "benefit": "Get Attractive Prices with various more Benefits !",
+    "benefit2": "Register now to get the latest information from Jaygee Group restaurants, from delicious food guides to other interesting promotions!",
+    "button": "Register",
+    "line1": "By clicking on the sign above, you are willing to become a member of the Jaygee Group, and have agreed to",
+    "line2": "Also",
+    "line3": "We",
+    "link1": "Data Policy",
+    "link2": "Terms and conditions"
+  },
+  "police": {
+    "line1": "This Privacy Policy explains the information we collect about you when you interact with us at our restaurants, through customer service, our member/loyalty programs, on Jaygee Group retail websites, our mobile applications (if available), or on our corporate websites (<a href='https://www.jaygeegroup.com'>www.jaygeegroup.com</a>) (Collectively our 'Platform'.",
+    "line2": "By submitting information through or using our Platform, you acknowledge that we may collect, use and disclose information in accordance with this Privacy policy, the privacy choices you have communicated to us, and as permitted or required by law. As used in this Privacy Policy, 'Isoide & Nahm', 'our', and 'we' mean Isoide and Nahm, a company headquartered in Jakarta, Indonesia, (unless a different legal entity applies to your location as described in section '< b>ADDITIONAL NOTICE</b>' below).",
+    "line3": "Isoide and Nahm reserves the right to change this Privacy Policy at any time to keep it up to date with legal and regulatory requirements and the way we conduct our business and will post any updates on our website. Please check our website periodically for the most recent version of this Privacy Policy. Where permitted by law, your continued access to and/or use of our Platform after such changes constitutes your acceptance of and agreement with our practices. Please review this Privacy Policy periodically so you are aware of the personal information we collect, how we use it, who we may share it with.",
+    "line4": "We are deeply committed to the relationship of trust we have with you, and we take our data protection responsibilities seriously. For more than 160 years, we have created original products by leading through our values. As we continue to innovate in how we deliver products and services in real life, we will combine cutting-edge technology and practices with your privacy interests.",
+    "line5": "<b>YOUR PERSONAL INFORMATION</b>",
+    "line6": "How we collect, use and share your personal information",
+    "line7": "We collect data when you interact with us across various touch points, including information that can directly or indirectly identify you ('Personal Information'). As a retail company, we use Personal Information for a variety of business purposes including sharing and combining it with other information we may receive from our retail, and restaurant, technology and other third parties. This section details the types of Personal Information we collect, how we use it, and describes the parties with whom we share Personal Information. See '<b>ADDITIONAL NOTICES</b>' below for additional information that may apply to you based on your location.",
+    "line8": [
+      {
+        "judul": "CONTACT INFORMATION",
+        "deskription": "Includes identifying information such as your name, email address, telephone number, shipping/billing/physical address, online identifiers you share in public forums (such as your social media name), or nicknames.",
+        "poin": [
+          {
+            "judul": "<b>How we collect this information</b>",
+            "alenia": [
+              {
+                "line1": "Directly from you when you register an account, join a member (<i>loyalty</i>) program (if available), register an email, register for or attend an event, order products from us online (<i>online< /i>) or purchase the product inside."
+              },
+              {
+                "line1": "From third parties including our franchisees or other parties managing product locations or fulfillment or marketing list providers (if permitted under applicable law)"
+              },
+              {
+                "line1": "From technology (Like when you interact with the artificial intelligence ('AI') that powers our chatbots"
+              }
+            ]
+          },
+          {
+            "judul": "<b>The reason we collect them</b>",
+            "alenia": [
+              {
+                "line1": "To contact you, for example to send relational, transactional and commercial communications, as well as other marketing and advertising materials (depending on the choice you may make to opt-in or opt-out)"
+              },
+              {
+                "line1": "To administer sweepstakes, surveys or contests"
+              },
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          },
+          {
+            "judul": "<b>We share it with:</b>",
+            "alenia": [
+              {
+                "line1": "Third party social media platforms (including for advertising via platforms such as Meta,Tiktok,Instagram or Amazon using pixels or custom audiences) (depending on the choice you can make to opt in or not)"
+              },
+              {
+                "line1": "Marketing and advertising provider"
+              },
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "FINANCIAL INFORMATION",
+        "deskription": "Includes information such as the last four digits of your card/debit number, data used to authenticate your transaction and information relating to the use of alternative payment methods or third-party checking platforms to complete your transaction.",
+        "poin": [
+          {
+            "judul": "<b>How we collect this information</b>",
+            "alenia": [
+              {
+                "line1": "directly from you when making a purchase"
+              },
+              {
+                "line1": "From third parties as needed to help process the transactions you request safely."
+              }
+            ]
+          },
+          {
+            "judul": "<b>The reason we collect them</b>",
+            "alenia": [
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          },
+          {
+            "judul": "<b>We share it with:</b>",
+            "alenia": [
+              {
+                "line1": "Payment processing"
+              },
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "OTHER IDENTIFICATION INFORMATION",
+        "deskription": "Includes information that could reasonably be used to identify you, either by itself or when combined with other data such as general or specific demographic data, physical descriptions of food choices, menus, information you share in public forums including social media, or other information that we collect from you after obtaining your prior consent.",
+        "poin": [
+          {
+            "judul": "<b>How we collect this information</b>",
+            "alenia": [
+              {
+                "line1": "Directly from you when you create an online account or join our member (loyalty) program (if available). using the mobile applications offered, or through experiences/purchases within our restaurants."
+              },
+              {
+                "line1": "When you submit a job application as well as from your references and other sources (see our Candidate Privacy Notice for more information)"
+              },
+              {
+                "line1": "As described in separate notices or agreements, such as notices appearing for special features in our mobile applications or registration terms for specific."
+              },
+              {"line1": "From third parties including social media platforms, business partners and advertising service providers."}
+            ]
+          },
+          {
+            "judul": "<b>The reason we collect them</b>",
+            "alenia": [
+              {
+                "line1": "To offer and manage special offers, contests, surveys and sweepstakes."
+              },
+              {
+                "line1": "To send relational, transactional and commercial communications, as well as other marketing and advertising materials (depending on the choice you may make to opt-in or opt-out."
+              },
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          },
+          {
+            "judul": "<b>We share it with:</b>",
+            "alenia": [
+              {
+                "line1": "Marketing and advertising provider"
+              },
+              {
+                "line1": "Client Browsing Provider."
+              },
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "INFORMATION FROM OUR BUSINESS RELATIONSHIPS",
+        "deskription": "Includes information you share on our website, in our applications, with Customer Service, our in-store Staff, or other representatives, including purchase and return data, survey responses, customization services, feedback, communications or information you share on public forums such as social media, choices you make regarding communications we send to you or how we use your data (for example: for login or opt-out options), account information or member (loyalty) programs including credentials or information you fill in in your account, size, fit and product selection, exchanges with our AI-powered chat bot, stores you visit and related inferred data such as trends and purchasing preferences.",
+        "poin": [
+          {
+            "judul": "<b>How we collect this information</b>",
+            "alenia": [
+              {
+                "line1": "Directly from you."
+              },
+              {
+                "line1": "From third parties including social media platforms, business partners and advertising service providers"
+              },
+              {
+                "line1": "From technology (like the AI that powers our chat bot)"
+              }
+            ]
+          },
+          {
+            "judul": "<b>The reason we collect them</b>",
+            "alenia": [
+              {
+                "line1": "To manage, support and improve our online and in-store presence and experience."
+              },
+              {
+                "line1": "To help us understand your interests, personalize our interactions with you, and develop our business relationships."
+              },
+              {
+                "line1": "To offer and manage special offers, contests, surveys and sweepstakes."
+              },
+              {
+                "line1": "To send relational, transactional and commercial communications, as well as other marketing and advertising materials (depending on the choices you may make to opt-in or opt-out)"
+              },
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          },
+          {
+            "judul": "<b>We share it with:</b>",
+            "alenia": [
+              {
+                "line1": "Marketing and advertising provider"
+              },
+              {
+                "line1": "Customer Service Provider."
+              },
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "AUDIO, VISUAL, SENSOR AND BIOMETRIC INFORMATION",
+        "deskription": "Includes data such as audio recordings, visual films or still images, physical and behavioral characteristics or patterns. In some locations, biometric information is considered sensitive Personal Information and is subject to additional protections.",
+        "poin": [
+          {
+            "judul": "<b>How we collect this information</b>",
+            "alenia": [
+              {
+                "line1": "Directly from you, If you make a phone call to our recorded customer service number, if you publicly upload images or audio/video where you post and tag us or our brands, If you choose to interact with optional features on our platform such as take and send a selfie or body scan for a digital fitness assessment or virtual try-out, or if you use the voice command feature."
+              },
+              {
+                "line1": "With CCTV cameras at our location."
+              },
+              {
+                "line1": "As described in separate notices or agreements, such as notices that appear for special features on our mobile applications, or registration terms for specific."
+              }
+            ]
+          },
+          {
+            "judul": "<b>The reason we collect them</b>",
+            "alenia": [
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          },
+          {
+            "judul": "<b>We share it with:</b>",
+            "alenia": [
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "ONLINE AND TECHNICAL INFORMATION",
+        "deskription": "Includes browsing data, data about how you interact with our platforms and tools (including online advertisements, text messages and emails) and similar network activity, your IP address, and device identifiers (for example, advertising ID, device model, operating system, device locale , mobile platform, session time, developer ID, and the like), as well as reproductions and recordings of interactions with websites recorded during browsing sessions.",
+        "poin": [
+          {
+            "judul": "<b>How we collect this information</b>",
+            "alenia": [
+              {
+                "line1": "From your computer or device when you interact with our platform, for example, when you visit our Restaurant or our company websites, our server logs record your IP address and we collect information about how you navigate through our websites."
+              },
+              {
+                "line1": "Through cookies, web beacons, pixels, clear gifs and similar tracking technologies (where you have opted in, if required by applicable law, unless collection is expressly required via cookies)."
+              },
+              {
+                "line1": "From the actions you take in response to marketing emails, including whether you open the email, unsubscribe, or purchase the product promoted in the email."
+              },
+              {
+                "line1": "From third parties including collaboration partners who help develop new solutions such as virtual trials."
+              }
+            ]
+          },
+          {
+            "judul": "<b>The reason we collect them</b>",
+            "alenia": [
+              {
+                "line1": "to make your interactions with us more convenient, for example, recognizing you and your device, or allowing us to hold your basket selections when you exit and then return to the order page."
+              },
+              {
+                "line1": "To deliver relational, transactional and commercial communications, as well as other marketing and advertising materials including through behavioral advertising and cross-device browsing. Cross-device tracing refers to when data is used to make inferences that the user of one device, such as a computer, is the same person who uses another device, such as a cell phone. Then, we can serve ads on both devices' browsers. This usage refers to the choice you make to participate or not."
+              },
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          },
+          {
+            "judul": "<b>We share it with:</b>",
+            "alenia": [
+              {
+                "line1": "Marketing and advertising provider."
+              },
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "INFORMATION COLLECTED AND DISCLOSED ",
+        "deskription": "Includes profiles based on purchasing trends, credit, and engagement choices, characteristics, tendencies, behaviors, or attitudes.",
+        "poin": [
+          {
+            "judul": "<b>How we collect this information</b>",
+            "alenia": [
+              {
+                "line1": "Directly from you."
+              },
+              {
+                "line1": "Through technology such as IP addresses"
+              },
+              {
+                "line1": "From third parties including business partners and advertising service providers."
+              }
+            ]
+          },
+          {
+            "judul": "<b>The reason we collect them</b>",
+            "alenia": [
+              {
+                "line1": "To send relational, transactional and commercial communications, for special offers and other marketing and advertising materials (depending on the choice you may make to opt-in or opt-out) including through interest-based advertising and cross-device use."
+              },
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          },
+          {
+            "judul": "<b>We share it with:</b>",
+            "alenia": [
+              {
+                "line1": "Marketing and advertising provider."
+              },
+              {
+                "line1": "Platform media social"
+              },
+              {
+                "line1": "See <b>`BUSINESS AND SHARING PURPOSES FOR ALL TYPES OF DATA` </b> below"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "INFORMATION ON CHILDREN AND MINORS",
+        "deskription": "We will not knowingly collect Personal Information from users under the age of 13 on our Platform. The offer is intended for users aged 13 years and over. If users or their parents or guardians believe we have collected the Personal Information of minors (under the age of 18), please contact us at <a href='mail:customer .service@jaygeegroup.com'>customer.service@jaygeegroup.com</a> to delete that data.",
+        "poin": [
+          {
+            "judul": "&nbsp;",
+            "alenia": [
+              {
+                "line1": "&nbsp;"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "BUSINESS PURPOSES AND SHARING FOR ALL TYPES OF DATA",
+        "deskription": "In addition to the above, we may use any or all Personal Information described in this Privacy Policy for the following business purposes. In addition, our business operations require us to share Personal Information with certain categories of third parties as identified below :",
+        "poin": [
+          {
+            "judul": "<b>We may use or share the Personal Information we collect to :</b>",
+            "alenia": [
+              {
+                "line1": "Maintain the safety, security, functionality and integrity of our Platform and other assets or business."
+              },
+              {
+                "line1": "Prevent investigations of, or take action regarding, unlawful activity including but not limited to engaging third parties to screen transactions for suspected fraud or identity theft."
+              },
+              {
+                "line1": "Carry out testing, research, analysis and product development."
+              },
+              {
+                "line1": "Manage, support, and improve and provide a customized and simplified experience with our Platform (portal), including by offering member (loyalty) programs, personalized recommendations, customized suggestions, and the like."
+              },
+              {
+                "line1": "Providing services in-store, on websites, or mobile applications, including processing requested purchases, returns and exchanges, payments, orders, delivery, products, and providing Customer Service."
+              },
+              {
+                "line1": "Evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or sale or other transfer of some or all of our assets, either as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which the Personal Information held is one of the assets involved redirected."
+              },
+              {
+                "line1": "Undertake other business initiatives as described to you when collecting your Personal Information, with your Consent or as permitted by law."
+              },
+              {
+                "line1": "Comply with the law or legally binding process, such as to comply with a subpoena, court order, to enforce our legal rights, or to protect you, us, or others from injury or harm including for safety and loss prevention."
+              },
+              {
+                "line1": "To administer surveys and questionnaires, such as for satisfaction purposes."
+              }
+            ]
+          },
+          {
+            "judul": "<b>We Share Your Personal Information With:</b>",
+            "alenia": [
+              {
+                "line1": "Service Providers, including outsourcing of operations, such as for services to or points of presence in countries, cloud computing technology and service providers, credit card processing, marketing and advertising, shipping and logistics, dispute resolution, fraud detection and prevention providers, data management, analytics providers , as well as other third parties with whom we have contractual relationships."
+              },
+              {
+                "line1": "Within our family of brands and with businesses that control, are controlled by, or are under common control with Nahm & Isoide ('<b>Affiliates</b>')"
+              },
+              {
+                "line1": "Auditors, consultants, advocates and other entities who use data to provide professional services to us,"
+              },
+              {
+                "line1": "Government agencies, law enforcement, regulators, and courts where we must comply with laws, regulations, rules, requests, law enforcement, regulators, and other government agencies or legally binding processes, such as subpoenas, court orders, to enforce rights our laws, or to protect you, us, or others from injury or loss."
+              },
+              {
+                "line1": "Business Transfers, if (i) we or our Affiliates are acquired or may be acquired by, merged with, or invested in by another company, or (ii) if any of our assets are or may be transferred to another company, either as part of bankruptcy proceedings or insolvency or otherwise, we may disclose or transfer Personal Information to potential or actual third party purchasers or other relevant third parties."
+              },
+              {
+                "line1": "We may also anonymize, aggregate, or delete, aggregated Personal Information of all personally identifiable characteristics and may use or share aggregated and anonymized data with third parties for purposes deemed appropriate.."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
