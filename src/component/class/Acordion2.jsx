@@ -32,36 +32,42 @@ const Acordion2 = (props) => {
         acrodionopen ? "grid-rows-[1fr] opacity-100" : "grid-rows-[0fr] opacity-0"
       }`}
     >
+      {props.answer !== '' ? (
       <p className="overflow-hidden text-xs lg:text-base font-Oswalextraligt w-[80%] pt-3">
         {props.answer}
       </p>
+      ): null}
       <div>
-        {props.poin.map((p, j) => (
-          <div key={j}>
-            <p
-              className="overflow-hidden text-xs !text-center lg:text-base font-Oswalextraligt w-[80%] pt-2"
-              dangerouslySetInnerHTML={{
-                __html: p.judul,
-              }}
-            ></p>
-            {p.alenia && Array.isArray(p.alenia) && (
-              <ul className="list-disc pl-4">
-                {p.alenia.map((h, k) => (
-                  <li
-                    key={k}
-                    dangerouslySetInnerHTML={{
-                      __html: h.line1,
-                    }}
-                  ></li>
-                ))}
-              </ul>
-            )}
-          </div>
-        ))}
-      </div>{" "}
+        {props.poin !== '' ? (
+            props.poin.map((p, j) => (
+                <div key={j}>
+                  {p.judul !== '' ?(
+                      <p
+                      className="overflow-hidden text-xs !text-center lg:text-base font-Oswalextraligt w-[80%] pt-2"
+                      dangerouslySetInnerHTML={{
+                        __html: p.judul,
+                      }}
+                  ></p>
+                    ): null}
+                  {p.alenia && Array.isArray(p.alenia) && (
+                      <ul className="list-disc pl-4">
+                        {p.alenia.map((h, k) => (
+                            <li
+                                key={k}
+                                dangerouslySetInnerHTML={{
+                                  __html: h.line1,
+                                }}
+                            ></li>
+                        ))}
+                      </ul>
+                  )}
+                </div>
+            ))
+        ) : null}
+      </div>
     </div>
-  </div>
-  
+    </div>
+
   );
 };
 

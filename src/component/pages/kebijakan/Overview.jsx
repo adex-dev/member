@@ -4,8 +4,8 @@ const Overview = () => {
   const [t] = useTranslation("global");
   return (
     <>
-      <div className=" h-screen w-screen">
-        <div className="h-full w-screen -mt-2 mb-6  flex flex-col items-center justify-center">
+      <div className=" min-h-screen w-screen">
+        <div className="h-screen w-screen -mt-2 mb-6  flex flex-col items-center justify-center">
           <h1 className="lg:text-4xl text-2xl  text-dark uppercase font-inter">
             <b>{t("body.overview")}</b>
           </h1>

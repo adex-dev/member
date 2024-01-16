@@ -4,7 +4,11 @@
     "overviewbtn": "View Benefit",
     "term": "TERM & CONDITION",
     "benefit": "BENEFIT",
-    "police":"Privacy Policy & Data Usage"
+    "police": "Privacy Policy & Data Usage",
+    "about": "About PT. Jaygee Group",
+    "payment": "How Payment",
+    "home": "Become one of our members and enjoy various exclusive offers, birthday vouchers, discounts, and invitations to exciting events."
+
   },
   "navbar": {
     "home": "Home",
@@ -92,10 +96,7 @@
       "answer": "In any case, JG Group is not responsible for any direct, indirect, incidental, special, or consequential losses arising from JG Group membership."
     },
     {
-      "answer": "Points will not expire and will be reset on an upgrade and reviewed every year."
-    },
-    {
-      "answer": "Points exchange period counts 1 (one) year from the end of the last transaction month."
+      "answer": "Points expire one year from the first transaction, and will be reset again."
     }
   ],
   "footer": {
@@ -108,7 +109,8 @@
     "company": {
       "about": "About Pt.Jaygee",
       "kebijakan": "Privacy Policy",
-      "syarat": "Terms and Conditions"
+      "syarat": "Terms and Conditions",
+      "reedem": "Reedem"
     }
   },
   "join": {
@@ -122,7 +124,7 @@
   },
   "register": {
     "header": "WELCOME TO JAYGEE GROUP",
-    "nama": "Name",
+    "nama": "Full Name",
     "email": "Email Address",
     "phone": "Number Phone",
     "tgl": "Birthday",
@@ -246,7 +248,9 @@
               {
                 "line1": "As described in separate notices or agreements, such as notices appearing for special features in our mobile applications or registration terms for specific."
               },
-              {"line1": "From third parties including social media platforms, business partners and advertising service providers."}
+              {
+                "line1": "From third parties including social media platforms, business partners and advertising service providers."
+              }
             ]
           },
           {
@@ -537,6 +541,194 @@
           }
         ]
       }
+    ],
+    "line9": [
+      {
+        "judul": "Your choice",
+        "subjudul": " ",
+        "alenia": [
+          {
+            "line1": "We rely on your choices regarding how your Personal Information is used. Below are some ways in which you can exercise these choices, including how to change or correct Personal Information and how to unsubscribe from marketing emails."
+          },
+          {
+            "line1": "We encourage you to review the entire Privacy Policy to fully understand the choices you may have, such as allowing or blocking cookies, and bold (online) behavioral browsing and ads that request your Personal Information be deleted, or ask about the Personal Information we have collected from you . See `<b>OTHER ADDITIONAL NOTICE </b>` for additional information that may apply to you based on your location."
+          },
+          {
+            "line1": "When you create an account, sign in, or login to one of our Platforms, you can access, correct, or update your choices and settings. If you receive email marketing communications from us on behalf of any of our brands and wish to exercise an opt-out option from receiving future communications from that brand. You can opt out by clicking the `UNSUBSCRIBE` link in the promotional email section. Likewise, if you receive direct mail from us and wish to unsubscribe, you can opt-out by emailing us <a href='mail:customer.service@jaygeegroup.com'>customer.service@jaygeegroup.com</ a>. Please be sure to include your full name, mailing address, and email address along with the types of Information you do not wish to receive. it may take up to 8 weeks to process direct mail opt-outs."
+          },
+          {
+            "line1": "Some services will allow you to accept or decline the use of geolocation technology, but if you decline, you may not be able to enjoy certain features on our Platform (such as the full `find a store` option). Unless previously explained to you, you are not obliged to provide us with your Personal Information. If you decide not to provide Personal Information, we may, in some cases, be unable to provide products or services to you. Additionally, if you have opted out of certain services, such as marketing communications, you may still hear from us for other purposes such as as necessary to fulfill your orders or respond to customer service inquiries."
+          }
+        ]
+      },
+      {
+        "judul": "Security",
+        "subjudul": "Keeping Your Personal Information Secure",
+        "alenia": [
+          {
+            "line1": "We care about the protection of your Personal Information, so we employ reasonable physical, technical and administrative practices designed to help keep it secure including encryption and in some cases techniques that reduce the ability to identify individuals. Personal Information may be accessed by people within our organization, our third party service providers, or this Privacy Policy, or as permitted or required by applicable law. Unless otherwise stated in this policy, the Personal Information we collect is for Indonesia and is managed from our head office in Jakarta."
+          },
+          {
+            "line1": "No collection, storage, or transmission of data, including over the internet or other network, can be guaranteed to be 100% secure, so despite our efforts, we cannot and do not guarantee the security of data you send to us, including on or through our Platform. When you communicate with customer service via email or chat, we ask that you not share sensitive Personal Information through these communication channels. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, logging out after using a shared computer, choosing a strong password that no one else knows or can easily guess, and maintaining confidentiality your login and password. We are not responsible for lost, stolen, or compromised passwords or for any activity on your account through unauthorized password activity."
+          },
+          {
+            "line1": "When you register on one of our Platforms, you will need to set up a password to access your information on our site. If you wish to cancel your password or change it, click `Sign In` from any page on the site, and you can access, correct, or update your options and settings from within your account. Please note that we do not ask customers for account information or credit card details via email - if you receive an email claiming to be from us and asking for this information, do not reply."
+          },
+          {
+            "line1": "We retain your Personal Information in accordance with applicable law and as necessary to process the data, unless a longer period is required for purposes such as complying with retention obligations, record keeping or other commercial terms."
+          }
+        ]
+      },
+      {
+        "judul": "cookies, browsing, and advertising",
+        "subjudul": "Cookies, Browsing technologies and Interest-Based Advertising",
+        "alenia": [
+          {
+            "dessub": "About Cookies",
+            "poin": [
+              {
+                "judul": "",
+                "alenia": [
+                  {
+                    "line1": "We may place, or allow to be placed, cookies, web beacons, and similar technologies on our Platform to provide you with the best experience, perform analytics, analyze traffic, personalize content, offer features and functionality, and offer advertising that match your interests (as discussed above). These technologies include Google Analytics and similar providers. You can learn more about how Google uses information collected through this service at: www.google.com/policies/privacy/partners"
+                  },
+                  {
+                    "line1": "Cookies and web beacons are technologies that generally encourage the collection of browsing information. A `Cookie` is a computer file that acts as an identification card for your computer. When you visit a site, a unique cookie is placed on your browser. The purpose of cookies is to differentiate your browser, and related activity, from all other browsers. `Web beacons` interact with cookies to `read` the information they contain. When you visit a site, a web beacon recognizes certain cookies that have been placed on your browser through the cookies we place, but does not necessarily identify you by name, email, or other specifically identifiable Personal Information. ."
+                  },
+                  {
+                    "line1": "We and our partners use cookies, web beacons, device identifiers and other technologies to collect information when you use our websites and mobile applications such as your IP address, web browser, mobile network information, browsing information and conversions help. to create a better shopping experience – for example, allowing us to hold your shopping cart selections while you navigate away from and then back to the order page, or save an item for a later time when you are not quite ready to buy. Cookies also allow us to recognize you as the account holder when you return to our site. We consider these types of cookies to be necessary for the successful operation of our business. Our use of cookies changes regularly depending on our business and operational needs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "dessub": "BEHAVIORAL OR INTEREST BASED ADVERTISING:",
+            "poin": [
+              {
+                "judul": "",
+                "alenia": [
+                  {
+                    "line1": "We allow our trusted business partners and third-party advertising companies (including ad servers, ad agencies, technology vendors, or sponsored content providers) to collect your browsing information and numeric identifiers associated with your browser or device to provide personalized advertising on our behalf. with your interests. These advertisements may appear on our website, and on other third party websites. Using tracking technologies, advertising technology companies collect data from a particular browser or device about users' web viewing behavior over time, across unrelated websites, and in some cases combine that data with data collected from other related browsers or devices. the same user or household, and uses that data to predict the user's choices and to serve the user ads calculated to target the user's predicted choices across his or her devices. If you take steps to block advertising cookies or opt out of interest-based advertising, please note that this does not mean you will no longer receive advertising from LS&CO., as this advertising is just one form of digital advertising."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "dessub": "DON'T TRACK ME:",
+            "poin": [
+              {
+                "judul": "",
+                "alenia": [
+                  {
+                    "line1": "Our systems do not recognize “Do Not Search Me” browser signals, but some third-party advertising companies that utilize cookies on our website to provide interest-based advertising may allow you to opt-out of such enforcement."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "dessub": "LOG IN OPTIONS/OUT OPTIONS/BLOCKING COOKIES:",
+            "poin": [
+              {
+                "judul": "",
+                "alenia": [
+                  {
+                    "line1": "You can block or opt-out of cookies or the collection of data for interest-based advertising by adjusting the settings in your browser. Check your browser's technical information for instructions. If you use a mobile device, your device may also include a feature (“Limit Ad Searches” on iOS or “Opt-Out of Ad Personalization” on Android) that allows you to opt-out of the collection of certain information through mobile applications used for behavioral advertising purposes. If you block cookies at the browser level or use another computer or browser to access our platform, you should review your cookie settings again."
+                  },
+                  {
+                    "line1": "The placement of cookies, pixels, gifs or web beacons may be subject to additional legal requirements, depending on where you are located. This may include requiring us to share certain technical information, requiring you to select an opt-in option for its use, or supporting a special mechanism for you to select an opt-out option. Additional specific information relevant to your location, if applicable, can be found in our <b>ADDITIONAL NOTICE</b>."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "THIRD PARTY LINKS & FEATURES",
+        "subjudul": "Social Media and Third Party Links",
+        "alenia": [
+          {
+            "line1": "Social media provides tools that our customers use and benefit from, and we include links to several social media platforms as part of our digital offerings. For your convenience and information, we may provide links to other sites, or add features supported by third parties to our websites or applications, which may have privacy policies that differ from ours. We identify features and links provided by third parties, but are not responsible for the content or practices of linked sites. We recommend that you review the privacy policy of each site or understand or any feature you access through our platform before sharing your Personal Information and understand your privacy settings which will determine the degree to which your Personal Information is used, shared or made public."
+          }
+        ]
+      },
+      {
+        "judul": "INTERNATIONAL PROCESSING",
+        "subjudul": "Transfer and Processing",
+        "alenia": [
+          {
+            "line1": "Please be aware that your Personal Information may be transferred to and maintained on servers or databases located outside of your state, province/territory, or country. If you are located outside the United States, please note that as a global business, we may process and store Personal Information in countries other than your country of residence, including the United States."
+          },{
+            "line1": "By using our Platform and unless such consent is prohibited by law, you consent to the collection, use, transfer and disclosure of your Personal Information, browsing information and communications in accordance with applicable laws in the United States."
+          }
+        ]
+      },
+      {
+        "judul": "ADDITIONAL NOTICE",
+        "subjudul": "",
+        "alenia": [
+          {
+            "line1": "Additional data protection and privacy provisions may apply depending on your location. These Terms (our “Additional Notice”) are incorporated into and should be read in conjunction with, this Privacy Policy by reference to the applicable jurisdiction. It is updated from time to time to meet specific legal requirements and we encourage you to check the Additional Notices page for an explanation of our privacy practices and rights if you do business with us in any of the following locations. Unless otherwise stated, Additional Notices have the same effective date as Nahm & Isoide. Global Privacy Notice."
+          }
+        ]
+      },
+      {
+        "judul": "CONTACT INFORMATION",
+        "subjudul": " ",
+        "alenia": [
+          {
+            "line1": "If you have questions or concerns about the Levi Strauss & Co. Privacy Policy, please send an email to customer.service@jaygeegroup.com, call us toll-free at +62-21-3146228 (Jaygee), or write to us at JAY GEE GROUP Jl. KH Wahid Hasyim no. 79-81,\nCentral Jakarta 10350."
+          }
+        ]
+      }
     ]
+  },
+  "about": {
+    "line1": "A family-run group prides its growth through the people and relationships built over the\nyears while keeping with their heritage. Each company under the group is a specialist in\nthe field. PT Sanggar Catur Utama is the leader in Levi’s Strauss retail, PT Jay Gee\nwith its family oriented restaurants, and PT Satria Catur Perkasa with its personalized\nproperties and management.",
+    "line2": [
+      {
+
+        "judul":"EMPATHY",
+        "deskripsi":"Empathy can start by paying attention to the world around us. We listen to and answer customer needs,"
+      },
+      {
+
+        "judul":"Integrity",
+        "deskripsi":"Integrity means doing the right thing for employees, brands, companies and society as a whole. A code of ethics and social responsibility is our hallmark in doing business"
+      },
+      {
+
+        "judul":"Courage",
+        "deskripsi":"To become great requires courage. Courage is the willingness to tell the truth and challenge hierarchy, accepted customs and conventional values. This means standing up for our beliefs and acting according to our beliefs."
+      }
+    ]
+  },
+  "payment": {
+    "line1": "What Types of Payments does Resto Nahm & Isoide accept?",
+    "line2": "Will my Payment Information be safe?",
+    "line3": "We accept several types of payments to make it easier for you to make transactions at our restaurant:",
+    "line4": "Pay with CASH to our restaurant cashier.",
+    "line5": "With a shared ATM network"
+  },
+  "contact": {
+    "line1": "CONTACT JAYGEE VIA EMAIL OR WHATSAPP",
+    "line2": "<b>Working Hours </b>: Monday - Friday 10.00 WIB - 17.00 WIB <br/>Saturday, Sunday and National Holidays Closed",
+    "line3": "Submit your suggestions."
+  },
+  "claim": {
+    "line1": "How to Earn Points",
+    "line2": "Collect points and get benefits",
+    "line3": "You go to the cashier.",
+    "line4": "Show your email or telephone number, which has been registered as a member, when you want to make a transaction.",
+    "line5": "If your telephone number or email is valid, you will get a notification on your email.",
+    "line6": "Please open the notification email, and you will get Points.",
+    "line7": "How to Redeem Points",
+    "line8": "You go to the cashier.",
+    "line9": "Show your email or telephone number, which has been registered as a member, when you want to make a transaction.",
+    "line10": "The cashier will confirm the number of points you have.",
+    "line11": "You can use these points or exchange them for vouchers."
   }
 }

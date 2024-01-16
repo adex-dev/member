@@ -2,7 +2,7 @@ module.exports = {
   darkMode: 'class',
   mode:'production',
   content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
+    "./src/**/*.{js,jsx}",
   ],
   theme: {
     container:{

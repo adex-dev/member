@@ -5,8 +5,8 @@ const Term = () => {
   const [t] = useTranslation("global");
   return (
     <>
-      <div className="pt-24 h-screen w-screen">
-        <div className="bg-slate-600 w-screen -mt-2 mb-6 h-16 flex items-center justify-center">
+      <div className="pt-24 min-h-screen w-screen">
+        <div className="bg-dark w-screen -mt-2 mb-6 h-16 flex items-center justify-center">
           <h1 className="lg:text-4xl text-2xl  text-white font-inter">
             <b>{t("body.term")}</b>
           </h1>

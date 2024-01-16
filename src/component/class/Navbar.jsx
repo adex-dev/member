@@ -53,7 +53,7 @@ export const Navbar = () => {
     }, [cekbahasa]);
     return (
         <>
-            <nav className="bg-primary absolute w-full top-0 left-0 z-20 shadow-lg">
+            <nav className="bg-primary absolute w-full top-0 left-0 z-20 shadow-lg w-screen">
                 <div className="flex items-center font-medium justify-around">
                     <div className="z-10 p-5 md:w-auto w-full flex justify-between">
                         <img
@@ -132,7 +132,7 @@ export const Navbar = () => {
                         </li>
                         <Navlinks links={links}/>
                         <li>
-                            <a href="login" className="py-7 px-3 inline-block">
+                            <a href="https://restoclub.jaygeegroupapp.com/login" className="py-7 px-3 inline-block">
                                 {t("navbar.login")}
                             </a>
                         </li>
@@ -198,7 +198,7 @@ export const Navbar = () => {
                         </li>
                         <Navlinks links={links}/>
                         <li>
-                            <a href="/login" className="py-7 px-3 inline-block">
+                            <a href="https://restoclub.jaygeegroupapp.com/login" className="py-7 px-3 inline-block">
                                 {t("navbar.login")}
                             </a>
                         </li>

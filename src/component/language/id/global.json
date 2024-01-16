@@ -4,7 +4,10 @@
     "overviewbtn": "lihat keuntungan",
     "term": "SYARAT & KETENTUAN",
     "benefit": "KEUNTUNGAN",
-    "police": "Kebijakan Privasi & Penggunaan Data"
+    "police": "Kebijakan Privasi & Penggunaan Data",
+    "about": "Tentang PT.Jaygee Group",
+    "payment": "Cara Pembayaran",
+    "home": "jadilah salah satu member kami dan nikmati berbagai penawaran eksklusif, voucher ulang tahun, potongan harga, hingga ke undangan acara seru. "
   },
   "navbar": {
     "home": "Halaman Depan",
@@ -95,10 +98,7 @@
       "answer": "Dalam hal apa pun, JG Group tidak bertanggung jawab atas segala kerugian langsung, tidak langsung, insidental, khusus, atau konsekuensial yang timbul dari keanggotaan JG Group."
     },
     {
-      "answer": "Poin tidak akan kedaluwarsa dan akan diatur ulang pada peningkatan dan ditinjau setiap tahun."
-    },
-    {
-      "answer": "Periode penukaran poin terhitung 1 (satu) tahun terhitung sejak akhir bulan transaksi terakhir."
+      "answer": "Masa berlaku poin  satu tahun dari pertama transaksi, dan akan dilakukan reset kembali."
     }
   ],
   "footer": {
@@ -111,7 +111,8 @@
     "company": {
       "about": "Tentang Pt.Jaygee",
       "kebijakan": "Kebijakan Privasi",
-      "syarat": "Syarat dan Ketentuan"
+      "syarat": "Syarat dan Ketentuan",
+      "reedem": "Reedem"
     }
   },
   "join": {
@@ -125,7 +126,7 @@
   },
   "register": {
     "header": "SELAMAT DATANG DI JAYGEE GROUP",
-    "nama": "Nama",
+    "nama": "Nama Lengkap",
     "email": "Alamat Email",
     "phone": "Nomer Telepone",
     "tgl": "Tanggal Lahir",
@@ -249,14 +250,16 @@
               {
                 "line1": "Sebagaimana dijelaskan dalam pemberitahuan atau persetujuan terpisah, seperti pemberitahuan yang muncul untuk fitur khusus di aplikasi seluler kami atau ketentuan pendaftaran untuk secara khusus."
               },
-              {"line1": "Dari pihak ketiga termasuk platform media sosial, mitra bisnis, dan penyedia layanan periklanan."}
+              {
+                "line1": "Dari pihak ketiga termasuk platform media sosial, mitra bisnis, dan penyedia layanan periklanan."
+              }
             ]
           },
           {
             "judul": "<b>Alasan kami mengumpulkannya</b>",
             "alenia": [
               {
-               "line1": "Untuk menawarkan dan mengelola penawaran khusu, kontes, survei, dan undian."
+                "line1": "Untuk menawarkan dan mengelola penawaran khusu, kontes, survei, dan undian."
               },
               {
                 "line1": "Untuk mengirimkan komunikasi relasional, transaksional, dan komersial, serta materi pemasaran dan periklanan lain (bergantung pada pilihan yang dapat Anda buat untuk ikut serta atau tidak."
@@ -540,6 +543,194 @@
           }
         ]
       }
+    ],
+    "line9": [
+      {
+        "judul": "Pilihan anda",
+        "subjudul": " ",
+        "alenia": [
+          {
+            "line1": "Kami mempercayakan pilihan Anda tentang cara bagaimana Informasi Pribadi Anda digunakan. Berikut adalah beberapa cara dimana Anda dapat menggunakan pilihan tersebut, termasuk cara mengubah atau mengoreksi Informasi Pribadi dan cara berhenti berlangganan email pemasaran."
+          },
+          {
+            "line1": "Kami mendorong Anda untuk meninjau seluruh Kebijakan Privasi tersebut guna memahami sepenuhnya pilihan yang dapat dimiliki, seperti mengizinkan atau memblokir cookies, dan penelusuran perilaku daring (online) serta iklan yang meminta Informasi Pribadi Anda dihapus, atau menanyakan tentang Informasi Pribadi yang telah kami kumpulkan dari Anda. Lihat `<b>PEMBERITAHUAN TAMBAHAN LAINNYA </b>` untuk informasi tambahan yang dapat berlaku untuk Anda didasarkan pada lokasi Anda."
+          },
+          {
+            "line1": "Ketika Anda membuat akun, masuk, atau login ke salah satu Platform kami, Anda dapat mengakses, memperbaiki, atau memperbaharui pilihan dan pengaturan Anda. Apabila Anda menerima komunikasi pemasaran email dari kami atas nama setiap merek kami dan ingin menjalankan opsi keluar dari penerimaan komunikasi dari merek tersebut di masa depan. Anda dapat melakukan opsi keluar dengan mengeklik tautan `BERHENTI Berlangganan` pada bagian email promosi. Demikian pula, jika Anda menerima surat langsung dari kami dan ingin berhenti berlangganan, Anda dapat melakukan opsi keluar dengan mengirimkan email kepada kami <a href='mail:customer.service@jaygeegroup.com'>customer.service@jaygeegroup.com</a>. Mohon pastikan untuk menyertakan nama lengkap, alamat surat, dan alamat email Anda bersama dengan jenis Informasi yang tidak ingin Anda terima. mungkin diperlukan waktu hingga 8 minggu untuk memproses berhenti dari surat langsung."
+          },
+          {
+            "line1": "Beberapa layanan akan memungkinkan Anda untuk menerima atau menolak penggunaan teknologi geolokasi, tetapi jika Anda menolaknya, Anda mungkin tidak dapat menikmati fitur tertentu pada Platform kami (seperti pilihan lengkap `temukan toko` ). kecuali jika dijelaskan sebelumnya kepada Anda, Anda tidak berkewajiban memberikan Informasi Pribadi ANda kepada kami. Jika Anda memutuskan tidak memberikan Informasi Pribadi, kami dapat, dalam beberapa hal, menjadi tidak dapat memberikan produk atau layanan kepada Anda. selain itu , jika Anda telah berhenti dari layanan tertentu, seperti komunikasi pemasaran, ANda mungkin masih mendengar dari kami untuk tujuan lain seperti yang diperlukan untuk memenuhi pesanan Anda atau menanggapi pertanyaan layanan pelanggan."
+          }
+        ]
+      },
+      {
+        "judul": "Keamanan",
+        "subjudul": "Menjaga Keamanan Informasi Pribadi Anda",
+        "alenia": [
+          {
+            "line1": "Kami peduli terhadap perlindungan Informasi Pribadi Anda, sehingga kami menerapkan fisik, teknis, dan administratif yang wajar yang dirancang untuk membantu menjaga agar tetap aman termasuk enkripsi dan dalam beberapa hal teknik mengurangi kemampuan mengidentifikasi individu. Informasi Pribadi dapat diakses oleh orang - orang di dalam organisasi kami, penyedia layanan pihak ketiga Kami, atau Kebijakan Privasi ini, atau yang di izinkan atau diwajibkan oleh hukum yang berlaku. Kecuali selain yang disebutkan dalam kebijakan ini, Informasi Pribadi yang kami kumpulkan untuk Indonesia dan dikelola dari kantor pusat kami di Jakarta."
+          },
+          {
+            "line1": "Tidak ada pengumpulan, penyimpanan, atau transmisi data, termasuk melalui internet atau jaringan lain yang dapat dijamin 100% aman, jadi terlepas dari upaya kami, kami tidak dapat dan tidak menjamin keamanan data yang anda kirimkan kepada kami termasuk di dalam atau melalui Platform kami. Saat Anda berkomunikasi dengan layanan pelanggan melalui email atau obrolan (chat), kami meminta Anda untuk tidak membagikan Informasi Pribadi yang sensitif melalui saluran komunikasi ini. Anda harus mengambil langkah untuk melindungi terhadap akses yang tidak diizinkan terhadap kata sandi, telepon, dan komputer Anda dengan, antara lain, keluar setelah menggunakan komputer bersama, memilih kata sandi yang kuat yang tidak diketahui orang lain atau dapat dengan mudah ditebak, dan menjaga kerahasiaan login dan kata sandi Anda. Kami tidak bertanggung jawab atas kata sandi yang hilan, dicuri, atau disusupi atau atas aktivitas apapun di akun Anda melalui aktivitas kata sandi tidak sah."
+          },
+          {
+            "line1": "Ketika Anda mendaftar di salah satu Platform kami,Anda perlu menyiapkan kata sandi untuk mengakses informasi Anda di situs kami. Jika Anda ingin membatalkan kata sandi atau mengubahnya, klik `Masuk` dari halaman di situs, dan Anda dapat mengakses, memperbaiki, atau memperbaharui pilihan dan pengaturan dari dalam akun Anda. perhatikan bahwa kami tidak meminta pelanggan untuk menginformasi akun atau rincian kartu kredit melalui email - jika Anda menerima email yang mengaku dari kami dan meminta informasi ini, jangan membalas."
+          },
+          {
+            "line1": "Kami menyimpan Informasi Pribadi Anda berdasarkan hukum yang berlaku dan sebagaimana diperlukan untuk memproses data, kecuali diperlukan jangka waktu yang lebih lama untuk tujuan seperti mematuhi kewajiban retensi, penyimpanan catatan, atau ketentuan komersial lainnya."
+          }
+        ]
+      },
+      {
+        "judul": "cookies, penelusuran, dan periklanan",
+        "subjudul": "Cookies, Teknologi penelusuran, dan Periklanan Berbasis Minat",
+        "alenia": [
+          {
+            "dessub": "Tentang Cookies",
+            "poin": [
+              {
+                "judul": "",
+                "alenia": [
+                  {
+                    "line1": "Kami dapat menempatkan, atau mengizinkan untuk di tempatkan, cookies, suar web (web beacon), dan teknologi serupa di Platform kami untuk memberi Anda pengalaman terbaik, melakukan analisis, menganalisis lalu lintas, mempersolisasi konten, menawarkan berbagai fitur dan fungsionalitas, dan menawarkan iklan yang sesuai dengan minat Anda (seperti yang dibahas di atas). Teknologi ini mencakup Google Analytics dan penyedia serupa. Anda dapat mempelajari lebih lanjut tentang bagaimana Google menggunakan informasi yang dikumpulkan melalui layanan ini di: www.google.com/policies/privacy/partners"
+                  },
+                  {
+                    "line1": "Cookies dan suar web (web beacon) adalah teknologi yang umumnya mendorong pengumpulan informasi penelusuran. Suatu `Cookies` adalah suatu file komputer yang bertindak sebagai suatu kartu identitas untuk komputer Anda. Saat Anda mengunjungi suatu situs, suatu cookies unik ditempatkan di peramban Anda. Tujuan cookie adalah untuk membedakan peramban Anda, dan aktivitas terkait, dari semua peramban lain. `suar web` berinteraksi dengan cookies untuk `membaca` informasi yang terkandung di dalamnya. Saat Anda mengunjungi suatu situs, suar web (web beacon) mengenali cookies tertentu yang telah ditempatkan di peramban Anda melalui cookies yang kami tempatkan, itu tidak berarti bahwa dapat mengidentifikasi Anda dnegan mengacu pada nama, email, atau Informasi Pribadi lain yang dapat diidentifikasi secara khusus."
+                  },
+                  {
+                    "line1": "Kami dan mitra kami menggunakan cookies, suar web (web beacon), pengidentifikasi perangkat, dan teknologi lainnya untuk mengumpulkan informasi saat Anda menggunakan situs web dan aplikasi seluler kami seperti alamat IP, peramban web, informasi jaringan seluler, informasi penelusuran, dan konversi Anda membantu untuk menciptakan suatu pengalaman berbelanja yang lebih baik – misalnya, mengizinkan kami untuk menahan pilihan keranjang belanja Anda saat Anda menavigasi keluar dan kemudian kembali ke halaman pesanan, atau menyimpan suatu item untuk nanti saat Anda belum cukup siap untuk membeli. Cookies juga memungkinkan kami untuk mengenali Anda sebagai pemegang akun ketika Anda kembali ke situs kami. Kami menganggap jenis cookies ini diperlukan untuk keberhasilan operasional bisnis kami. Penggunaan kami atas cookies berubah secara teratur tergantung pada kebutuhan bisnis dan operasional kami."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "dessub": "PERIKLANAN BERBASIS PERILAKU ATAU MINAT:",
+            "poin": [
+              {
+                "judul": "",
+                "alenia": [
+                  {
+                    "line1": "Kami mengizinkan mitra bisnis kami yang tepercaya dan perusahaan periklanan pihak ketiga (termasuk server iklan, agensi iklan, vendor teknologi, atau penyedia konten bersponsor) untuk mengumpulkan informasi penjelajahan dan pengidentifikasi numerik Anda terkait dengan peramban atau perangkat Anda untuk menyediakan iklan atas nama kami yang disesuaikan dengan minat Anda. Iklan ini dapat muncul di situs web kami, dan di situs web pihak ketiga lainnya. Dengan menggunakan teknologi penelusuran, perusahaan teknologi periklanan mengumpulkan data dari peramban atau perangkat tertentu tentang perilaku melihat web pengguna dari waktu ke waktu, di seluruh situs web tidak terkait, dan dalam beberapa hal menggabungkan data tersebut dengan data yang dikumpulkan dari peramban atau perangkat lain terkait dengan pengguna atau rumah tangga yang sama, dan menggunakan data tersebut untuk memprediksi pilihan pengguna dan untuk menayangkan iklan kepada pengguna yang dihitung untuk menargetkan pilihan pengguna sesuai prediksi di seluruh perangkatnya. Jika Anda mengambil langkah untuk memblokir cookies iklan atau memilih opsi keluar dari iklan berbasis minat, mohon dicatat bahwa hal ini tidak berarti Anda tidak akan lagi menerima iklan dari LS&CO., karena iklan ini hanya salah satu bentuk iklan digital."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "dessub": "JANGAN MENELUSURI SAYA:",
+            "poin": [
+              {
+                "judul": "",
+                "alenia": [
+                  {
+                    "line1": "Sistem kami tidak mengenali sinyal peramban “Jangan Menelusuri Saya”, tetapi beberapa perusahaan periklanan pihak ketiga yang memanfaatkan cookies pada situs web kami untuk memberikan periklanan berbasis minat memungkinkan Anda untuk menolak pemberlakuan tersebut."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "dessub": "OPSI MASUK/OPSI KELUAR/MEMBLOKIR COOKIES:",
+            "poin": [
+              {
+                "judul": "",
+                "alenia": [
+                  {
+                    "line1": "Anda dapat memblokir atau memilih opsi keluar dari cookies atau kumpulan data untuk iklan berbasis minat dengan menyesuaikan pengaturan dalam peramban Anda. Periksa informasi teknis peramban Anda untuk mengetahui instruksinya. Jika Anda menggunakan perangkat seluler, perangkat Anda juga dapat menyertakan fitur (“Batasi Penelusuran Iklan” di iOS atau “Opsi Keluar dari Personalisasi Iklan” di Android) yang memungkinkan Anda untuk keluar dari pengumpulan informasi tertentu melalui aplikasi seluler yang digunakan untuk tujuan periklanan perilaku. Jika Anda memblokir cookies di tingkat peramban atau menggunakan komputer atau peramban lain untuk mengakses platform kami, Anda harus meninjau ulang pengaturan cookies lagi."
+                  },
+                  {
+                    "line1": "Penempatan cookies, piksel, gifs, atau suar web (web beacon) mungkin tunduk pada ketentuan tambahan menurut hukum, tergantung di mana Anda berada. Ini mungkin termasuk mengharuskan kami untuk membagikan informasi teknis tertentu, mengharuskan Anda untuk memilih opsi masuk dalam penggunaannya, atau mendukung mekanisme khusus bagi Anda untuk memilih opsi keluar. Informasi spesifik tambahan yang relevan dengan lokasi Anda, jika berlaku, dapat dilihat di <b>PEMBERITAHUAN TAMBAHAN</b> kami."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "judul": "TAUTAN PIHAK KETIGA & FITUR",
+        "subjudul": "Media Sosial dan Tautan Pihak Ketiga",
+        "alenia": [
+          {
+            "line1": "Media sosial menyediakan alat bantu yang digunakan dan dimanfaatkan pelanggan kami, serta kami menyertakan tautan ke beberapa platform media sosial sebagai bagian dari penawaran digital kami. Demi kenyamanan dan informasi Anda, kami dapat memberikan tautan ke situs lain, atau menambahkan fitur yang didukung oleh pihak ketiga ke situs web atau aplikasi kami, yang dapat memiliki kebijakan privasi yang berbeda dari milik kami. Kami mengidentifikasi fitur dan tautan yang disediakan oleh pihak ketiga, namun tidak bertanggung jawab atas konten atau praktik situs tertaut. Kami menganjurkan agar Anda meninjau kebijakan privasi setiap situs atau memahami atau fitur apa pun yang Anda akses melalui platform kami sebelum membagikan Informasi Pribadi Anda dan memahami pengaturan privasi Anda yang akan menentukan tingkat sejauh mana Informasi Pribadi Anda digunakan, dibagikan, atau dipublikasikan."
+          }
+        ]
+      },
+      {
+        "judul": "PEMROSESAN INTERNASIONAL",
+        "subjudul": "Pengalihan dan Pemrosesan",
+        "alenia": [
+          {
+            "line1": "Perlu diketahui bahwa Informasi Pribadi Anda dapat dialihkan ke dan dipertahankan pada server atau basis data yang terletak di luar negara bagian, provinsi/wilayah, atau negara Anda. Jika Anda berada di luar Amerika Serikat, mohon perhatikan bahwa sebagai bisnis global, kami dapat memproses dan menyimpan Informasi Pribadi di negara selain negara tempat tinggal anda, termasuk Amerika Serikat."
+          },{
+            "line1": "Dengan menggunakan Platform kami dan kecuali persetujuan tersebut dilarang oleh hukum, Anda menyetujui pengumpulan, penggunaan, pengalihan, dan pengungkapan Informasi Pribadi Anda, informasi penjelajahan, dan komunikasi tersebut akan mengacu pada hukum yang berlaku di Amerika Serikat."
+          }
+        ]
+      },
+      {
+        "judul": "PEMBERITAHUAN TAMBAHAN",
+        "subjudul": "",
+        "alenia": [
+          {
+            "line1": "Tambahan perlindungan data tambahan dan ketentuan privasi yang dapat berlaku bergantung pada lokasi Anda. Ketentuan (\"Pemberitahuan Tambahan\" kami) ini dimasukkan ke dalam dan harus dibaca bersamaan dengan, Kebijakan Privasi ini dengan referensi didasarkan pada yurisdiksi yang berlaku. Hal tersebut diperbarui dari waktu ke waktu untuk memenuhi persyaratan hukum tertentu dan kami mendorong Anda untuk memeriksa halaman Pemberitahuan Tambahan untuk suatu penjelasan praktik dan hak privasi Anda jika Anda berbisnis dengan kami di salah satu lokasi berikut. Kecuali dinyatakan lain, Pemberitahuan Tambahan memiliki tanggal efektif yang sama dengan Nahm & Isoide. Pemberitahuan Privasi Global."
+          }
+        ]
+      },
+      {
+        "judul": "INFORMASI KONTAK",
+        "subjudul": " ",
+        "alenia": [
+          {
+            "line1": "Jika Anda memiliki pertanyaan atau kekhawatiran tentang Kebijakan Privasi Levi Strauss & Co., mohon kirimkan email ke customer.service@jaygeegroup.com, hubungi kami bebas pulsa di +62-21-3146228 (Jaygee), atau kirim surat kepada kami di JAY GEE GROUP Jl. KH Wahid Hasyim no. 79-81,\nJakarta Pusat 10350.\n\n"
+          }
+        ]
+      }
     ]
+  },
+  "about": {
+    "line1": "JAY GEE GROUP adalah perusahaan yang bergerak di beberapa sektor dengan pengalaman yang cukup lama di bidang retail fashion dengan brand Levis melalui anak perusahaannya yaitu PT SANGGAR CATUR UTAMA sebagai retailer resmi dan salah satu terbesar di Indonesia. Selain itu dalam 1 dekade terakhir kami juga mulai merambah ke dunia properti sebagai salah satu rental agent and ownership melalui anak perusahaan kami lainnya yaitu PT SATRIA CATUR PERKASA dengan kepemilikan aset sejumlah apartment & office spaces serta houses. Dan sejak 1 tahun terakhir, kami mulai melakukan ekspansi usaha di dunia Food & Beverage melalui anak perusahaan kami berikutnya yaitu PT Jay Gee. Ke depan seiring dengan Visi dan Misi perusahaan yang ingin semakin melebarkan",
+    "line2": [
+      {
+
+        "judul":"Empati",
+        "deskripsi":"Empati dapat dimulai dengan memperhatikan dunia sekitar, Kami menyimak dan menjawab kebutuhan pelanggan,"
+      },
+      {
+
+        "judul":"Integritas",
+        "deskripsi":"Integritas berarti melakukan hal yang benar bagi karyawan, brand, perusahaan, dan masyarakat secara utuh. Kode etik dan tanggung jawab sosial menjadi ciri khas kami dalam berbisnis"
+      },
+      {
+
+        "judul":"Keberanian",
+        "deskripsi":"Untuk menjadi besar dibutuhkan keberanian. Keberanian adalah kemauan untuk mengatakan yang sejujurnya dan menantang hirarki, menerima kebiasaan, dan nilai - nilai konvesional. Artinya membela keyakinan dan bertindak sesuai kepercarayaan kami."
+      }
+    ]
+  },
+  "payment": {
+    "line1": "Apa Jenis Pembayaran yang diterima oleh Resto Nahm & Isoide.?",
+    "line2": "Apakah Informasi Pembayaran saya akan aman.?",
+    "line3": "Kami\n Menerima beberapa jenis pembayaran untuk memudahkan Anda melakukan transaksi di resto kami:",
+    "line4": "Bayar dengan\n UANG TUNAI ke kashir resto kami.",
+    "line5": "Dengan jaringan Atm bersama"
+  },
+  "contact": {
+    "line1": "Kontak jaygee Melalui Email Atau Whatsapp",
+    "lien2": "<b>Jam Kerja</b> : Senin - Jumat 10:00 WIB - 17:00 WIB <br/> Sabtu, Minggu, dan Hari libur Nasional Tutup",
+    "line3": "Sampaikan Saran ANda."
+  },
+  "claim": {
+    "line1": "Cara Mendapatkan Poin",
+    "line2": "Kumpulkan poin dan dapatkan keuntungannya",
+    "line3": "Anda Menuju ke kasir.",
+    "line4": "Tunjukan E-mail atau No telephone Anda, yang telah terdaftar sebagai member, saat Anda hendak melakukan transaksi.",
+    "line5": "Jika Nomer telepone Atau email Anda valid, Anda akan mendapatkan pemberitahuan pada email anda.",
+    "line6": "Silakan Anda buka email pemberitahuan tersebut, dan Anda akan mendapatkan Poin.",
+    "line7": "Cara Reedem Poin",
+    "line8": "Anda Menuju ke kasir.",
+    "line9": "Tunjukan E-mail atau No telephone Anda, yang telah terdaftar sebagai member, saat Anda hendak melakukan transaksi.",
+    "line10": "Kasir akan mengkonfirmasi jumlah poin yang Anda miliki.",
+    "line11": "Anda dapat menggunakan poin tersebut Atau dapat ditukarkan menjadi voucher."
   }
 }

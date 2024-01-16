@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://member.jaygeegroup.com/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://member.jaygeegroup.com/join</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://member.jaygeegroup.com/register</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://member.jaygeegroup.com/policy</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://member.jaygeegroup.com/overview</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://member.jaygeegroup.com/benefit</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://member.jaygeegroup.com/termandcondition</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://member.jaygeegroup.com/faq</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://member.jaygeegroup.com/about</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://member.jaygeegroup.com/reedem</loc>
+    <priority>0.80</priority>
+  </url> <url>
+    <loc>https://member.jaygeegroup.com/payment</loc>
+    <priority>0.80</priority>
+  </url>
+</urlset>

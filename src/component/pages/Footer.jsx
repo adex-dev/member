@@ -1,47 +1,48 @@
 import React from "react";
-import logo from "../../assets/img/logo.png";
 import { useTranslation } from "react-i18next";
+import {useNavigate} from "react-router-dom";
 const Footer = () => {
     const [t] = useTranslation("global")
+  const navigate = useNavigate();
+  const goDetail = (id)=>{
+      navigate(`${id}`)
+  }
+  const  oncek=()=>{
+      window.location.href="https://isoide.co.id/storelist"
+  }
   return (
     <>
-      <footer className=" w-full mt-10 pt-10 bg-dark">
-        <div className="container">
+      <footer className=" w-full mt-10 pt-10 bg-transparent">
+        <div className="lg:container w-full lg:mx-auto mx-4">
           <div className="w-full">
-            <div className="w-full flex flex-col justify-center items-center">
-              <img
-                src={logo}
-                className='block mx-auto w-[100px]  border-2 border-white rounded-full shadow-xl shadow-amber-50"'
-                alt="logo"
-              />
-            </div>
-            <div className="w-full grid lg:grid-cols-6 grid-cols-3 gap-4 py-6">
+            <div className="w-full grid lg:grid-cols-6 grid-cols-2 gap-4 py-6">
               <div>
-                <span className="text-white font-inter text-base ">
+                <span className="text-dark font-inter text-base ">
                   {t("footer.bantuan")}
                 </span>
-                <ul className="text-white/80 font-OswaldLight text-sm leading-6 py-6 capitalize">
-                  <li>{t("footer.payment")}</li>
-                  <li>{t("footer.contact")}</li>
-                  <li>{t("footer.ask")}</li>
+                <ul className="text-dark font-OswaldLight text-sm leading-6 py-6 capitalize">
+                  <li className={`cursor-pointer`} onClick={(e) => goDetail('payment')}>{t("footer.payment")}</li>
+                  <li className={`cursor-pointer`} onClick={(e) => goDetail('helpdesk')}>{t("footer.contact")}</li>
                 </ul>
               </div>
               <div>
-                <span className="text-white font-inter text-base ">
+                <span className="text-dark font-inter text-base ">
                 {t("footer.perusahaan")}
                 </span>
-                <ul className="text-white/80 font-OswaldLight text-sm leading-6 py-6">
-                  <li>{t("footer.company.about")}</li>
-                  <li>{t("footer.company.kebijakan")}</li>
-                  <li>{t("footer.company.syarat")}</li>
+                <ul className="text-dark font-OswaldLight text-sm leading-6 py-6">
+                  <li className="cursor-pointer" onClick={(e) => goDetail('about')}>{t("footer.company.about")}</li>
+                  <li className={`cursor-pointer`} onClick={(e)=>goDetail('policy')}>{t("footer.company.kebijakan")}</li>
+                  <li className={`cursor-pointer`} onClick={(e)=>goDetail('termandcondition')}>{t("footer.company.syarat")}</li>
                 </ul>
               </div>
               <div>
-                <span className="text-white font-inter text-base ">
+                <span className="text-dark font-inter text-base ">
                 {t("footer.tautan")}
                 </span>
-                <ul className="text-white/80 font-OswaldLight text-sm leading-6 py-6">
-                  <li>Store</li>
+                <ul className="text-dark font-OswaldLight text-sm leading-6 py-6">
+                  <li className={`cursor-pointer`} onClick={oncek}>Store</li>
+                  <li className={`cursor-pointer`}
+                      onClick={(e) => goDetail('reedem')}>{t("footer.company.reedem")}</li>
                 </ul>
               </div>
             </div>
